@@ -1,0 +1,24 @@
+numpy==1.21.2
+pandas==1.3.3
+Pillow==8.2.0
+matplotlib==3.4.3
+scikit-learn==0.24.2
+tensorflow==2.7.0
+keras==2.6.0
+
+
+Below is an explanation of each library/module:
+
+numpy (1.21.2): Required for numerical operations and array handling.
+
+pandas (1.3.3): Useful for working with structured data and dataframes.
+
+Pillow (8.2.0): The Python Imaging Library, required for working with images, especially resizing and preprocessing them.
+
+matplotlib (3.4.3): Used for creating visualizations and plots, helpful for displaying images and evaluation metrics.
+
+scikit-learn (0.24.2): Provides machine learning utilities like train-test splitting, model evaluation, and more.
+
+tensorflow (2.7.0): The TensorFlow deep learning framework. Required for working with neural networks and models.
+
+keras (2.6.0): A high-level neural networks API running on top of TensorFlow (or other backends). Used for defining and training neural network models.
